@@ -35,7 +35,7 @@ git clone https://github.com/abdullazada-mustafa/techx-master.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Email](abdullazadamustafa@gmail.com).
+If you want to contact with me you can email me --> abdullazadamustafa@gmail.com.
 
 ### License
 
