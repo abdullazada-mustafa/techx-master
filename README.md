@@ -2,7 +2,6 @@
 
   Techx is a fully responsive landing page website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/techx/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
