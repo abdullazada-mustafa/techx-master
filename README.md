@@ -24,18 +24,18 @@ To run **Techx** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/techx.git
+sudo git clone https://github.com/abdullazada-mustafa/techx-master.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/techx.git
+git clone https://github.com/abdullazada-mustafa/techx-master.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Twitter](abdullazadamustafa@gmail.com).
 
 ### License
 
